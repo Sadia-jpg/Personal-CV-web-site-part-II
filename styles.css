@@ -1,0 +1,48 @@
+/*************************TAGS*************************/
+body {
+  background-color: #f9f3f3;
+}
+h1 {
+  color: #343f56;
+  font-family: inherit;
+}
+h3 {
+  color: #343f56;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3px;
+  width: 10px;
+}
+
+/*************************CLASS SELECTORS****************/
+.profession {
+  background-color: #d3e0dc;
+}
+p.ref {
+  font-style: italic;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #fcd1d1;
+   color: Sadia Hafeez;
+   text-align: center;
+}
+.whereabouts {
+  background-color: #d3e0dc;
+	border: 2px solid #aee1e1;
+	height: 100px;
+	margin: 5px;
+	padding: 8px;
+	width: 200px;
+}
+
+/*************************ID SELECTORS****************/
+#heading {
+  background-color: #d3e0dc;
+}
